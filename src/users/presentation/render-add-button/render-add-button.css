@@ -1,0 +1,8 @@
+
+.botonFlotante{
+    background-color: lightseagreen;
+    font-size: 1.3rem;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
